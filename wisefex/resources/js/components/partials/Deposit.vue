@@ -260,6 +260,8 @@ export default {
             this.company = response.data.data
             if(this.coin == 'btc') {
                this.qrText = this.company.btc
+            } else if(this.coin == 'eth') {
+               this.qrText = this.company.eth
             } else if(this.coin == 'usdt') {
                this.qrText = this.company.usdt
             } else if(this.coin == 'busd') {

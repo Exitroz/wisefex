@@ -257,8 +257,8 @@
                             <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0" style="box-sizing: border-box; background-color: #22223d; margin: 0 auto; padding: 0; width: 570px; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570px;">
                                 <tr>
                                     <td style="box-sizing: border-box;padding-top: 35px; padding-bottom: 25px; text-align: center;">
-                                        <a href="https://exchangedigitalmining.com" style="box-sizing: border-box; color: #bbbfc3; font-size: 19px; font-weight: bold; text-decoration: none; text-shadow: 0 1px 0 #ffffff;">
-                                       <img src="https://www.exchangedigitalmining.com/assets/auth/images/logo/ts.png" alt="{{ ucwords($company->name) }}" height="60" />
+                                        <!-- <a href="https://exchangedigitalmining.com" style="box-sizing: border-box; color: #bbbfc3; font-size: 19px; font-weight: bold; text-decoration: none; text-shadow: 0 1px 0 #ffffff;">
+                                       <img src="https://www.exchangedigitalmining.com/assets/auth/images/logo/ts.png" alt="{{ ucwords($company->name) }}" height="60" /> -->
                                     </td>
                                 </tr>
                             </table>
@@ -289,7 +289,7 @@
 														</div>
                                        </div>
                                        <div style="text-align: center">
-                                        <a href="https://exchangedigitalmining.com/" style="font-size: 16px; border-radius: 5px; color: #ffffff; display: inline-block; text-decoration: none; -webkit-text-size-adjust: none; cursor: pointer; background-color: #ffa800; border-top: 10px solid #ffa800; border-right: 18px solid #ffa800; border-bottom: 10px solid #ffa800; border-left: 18px solid #ffa800;">Login to Dashboard</a></div>
+                                        <a href="https://infinixfinance.com/" style="font-size: 16px; border-radius: 5px; color: #ffffff; display: inline-block; text-decoration: none; -webkit-text-size-adjust: none; cursor: pointer; background-color: #ffa800; border-top: 10px solid #ffa800; border-right: 18px solid #ffa800; border-bottom: 10px solid #ffa800; border-left: 18px solid #ffa800;">Login to Dashboard</a></div>
                                     </td>
                                 </tr>
                             </table>

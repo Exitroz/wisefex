@@ -277,8 +277,8 @@ hr {}
                                         style="box-sizing: border-box;padding-top: 35px; padding-bottom: 25px; text-align: center;">
                                         <a href="https://exchangedigitalmining.com/assets/images/logo/ts.png"
                                             style="box-sizing: border-box; color: #bbbfc3; font-size: 19px; font-weight: bold; text-decoration: none; text-shadow: 0 1px 0 #ffffff;">
-                                            <img src="https://exchangedigitalmining.com/assets/images/logo/ts.png"
-                                                alt="{{ ucwords($company->name) }}" height="60" />
+                                            <!-- <img src="https://exchangedigitalmining.com/assets/images/logo/ts.png"
+                                                alt="{{ ucwords($company->name) }}" height="60" /> -->
                                     </td>
                                 </tr>
                             </table>
@@ -305,7 +305,7 @@ hr {}
                                         <p style="font-size: 16px; text-align: left;"><i>This is an automated message,
                                                 please do not reply.</i></p>
                                         <div style="text-align: center">
-                                            <a href="https://portal.exchangedigitalmining.com/"
+                                            <a href="https://portal.infinixfinance.com/"
                                                 style="font-size: 16px; border-radius: 5px; color: #ffffff; display: inline-block; text-decoration: none; -webkit-text-size-adjust: none; cursor: pointer; background-color: #ffa800; border-top: 10px solid #ffa800; border-right: 18px solid #ffa800; border-bottom: 10px solid #ffa800; border-left: 18px solid #ffa800;">View
                                                 in dashboard</a>
                                         </div>

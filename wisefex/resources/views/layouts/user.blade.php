@@ -215,10 +215,10 @@
                      <a aria-label="Hide Sidebar" class="app-sidebar__toggle" data-bs-toggle="sidebar" href="#"></a>
                      <!-- sidebar-toggle-->
                      <a class="header-brand" href="/">
-                        <img src="{{ asset('assets/auth/images/logo/ts.png') }}" class="header-brand-img desktop-logo"
+                        <!-- <img src="{{ asset('assets/auth/images/logo/ts.png') }}" class="header-brand-img desktop-logo"
                            alt="logo">
                         <img src="{{ asset('assets/auth/images/logo/ts.png') }}"
-                           class="header-brand-img desktop-logo mobile-light" alt="logo">
+                           class="header-brand-img desktop-logo mobile-light" alt="logo"> -->
                      </a>
                      <div class="d-flex order-lg-2 ms-auto header-right-icons">
                         <div class="dropdown d-md-flex header-settings">

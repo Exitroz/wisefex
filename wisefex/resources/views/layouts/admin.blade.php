@@ -141,10 +141,10 @@
                                 href="#"></a>
                             <!-- sidebar-toggle-->
                             <a class="header-brand" href="/">
-                                <img src="{{ asset('assets/auth/images/logo/ts.png') }}"
+                                <!-- <img src="{{ asset('assets/auth/images/logo/ts.png') }}"
                                     class="header-brand-img desktop-logo" alt="logo">
                                 <img src="{{ asset('assets/auth/images/logo/ts.png') }}"
-                                    class="header-brand-img desktop-logo mobile-light" alt="logo">
+                                    class="header-brand-img desktop-logo mobile-light" alt="logo"> -->
                             </a>
                             <div class="d-flex order-lg-2 ms-auto header-right-icons">
                                 <button class="navbar-toggler navresponsive-toggler d-md-none" type="button"

@@ -5934,6 +5934,8 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
                 _this.company = response.data.data;
                 if (_this.coin == 'btc') {
                   _this.qrText = _this.company.btc;
+                } else if (_this.coin == 'eth') {
+                  _this.qrText = _this.company.eth;
                 } else if (_this.coin == 'usdt') {
                   _this.qrText = _this.company.usdt;
                 } else if (_this.coin == 'busd') {
@@ -6580,7 +6582,7 @@ var render = function render() {
     attrs: {
       coin: "alt_coin",
       name: "alt_coin",
-      img: "/assets/auth/images/icons/crypto/color/usdt.svg",
+      img: "/assets/auth/images/icons/crypto/color/arnx.svg",
       prices: _vm.coinPrice
     }
   })], 1), _vm._v(" "), _c("div", {
@@ -6589,7 +6591,7 @@ var render = function render() {
     attrs: {
       coin: "bank",
       name: "bank",
-      img: "/assets/auth/images/icons/crypto/color/usdt.svg",
+      img: "/assets/auth/images/icons/crypto/color/apex.svg",
       prices: _vm.coinPrice
     }
   })], 1)])])])])])])])]), _vm._v(" "), _c("div", {

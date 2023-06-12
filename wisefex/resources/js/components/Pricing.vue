@@ -32,10 +32,10 @@
                                  <deposit-coin coin="usdt" name="Tether USD" img="/assets/auth/images/icons/crypto/color/usdt.svg" :prices="coinPrice"></deposit-coin>
                               </div>
                               <div class="col-md-4 cursor-pointer">
-                                 <deposit-coin coin="alt_coin" name="alt_coin" img="/assets/auth/images/icons/crypto/color/usdt.svg" :prices="coinPrice"></deposit-coin>
+                                 <deposit-coin coin="alt_coin" name="alt_coin" img="/assets/auth/images/icons/crypto/color/arnx.svg" :prices="coinPrice"></deposit-coin>
                               </div>
                               <div class="col-md-4 cursor-pointer">
-                                 <deposit-coin coin="bank" name="bank" img="/assets/auth/images/icons/crypto/color/usdt.svg" :prices="coinPrice"></deposit-coin>
+                                 <deposit-coin coin="bank" name="bank" img="/assets/auth/images/icons/crypto/color/apex.svg" :prices="coinPrice"></deposit-coin>
                               </div>
                            </div>
                         </div>

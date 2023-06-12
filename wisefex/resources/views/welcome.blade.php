@@ -393,7 +393,7 @@ I am happy to look back on investing with you these last six years. You have alw
             </div>
         </div>
         
-        <div class="uk-section in-liquid-14">
+        <!-- <div class="uk-section in-liquid-14">
             <div class="uk-container">
                 <div class="uk-grid-large uk-flex uk-flex-middle uk-grid" data-uk-grid="">
                     <div class="uk-width-expand@m uk-first-column">
@@ -407,7 +407,7 @@ I am happy to look back on investing with you these last six years. You have alw
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- section content begin -->
         <div class="uk-section in-liquid-9">
             <div class="uk-container">
@@ -461,21 +461,6 @@ I am happy to look back on investing with you these last six years. You have alw
                 </div>
             </div>
         </div>
-        <!-- section content end -->
-        <div class="uk-section">
-            <div class="uk-container">
-                <div class="uk-grid">
-                    <div class="uk-width-1-1">
-                        <div class="uk-card uk-card-primary uk-box-shadow-small uk-border-rounded uk-background-cover" style="background-image: url(landing/img/in-card-background-1.jpg);">
-                            <div class="uk-card-body">
-                                <h2 class="uk-margin-remove-bottom">10% Referral Commission</h2>
-                                <p class="uk-margin-small-top">At Infinix Finance Investment we know that the best way to find trustfull investors is through connections to other good investors like you. We also want to provide professionals with opportunities to profit from both What and Who they know. Marrying these two concepts, ultimate digital mining hub has developed a unique Referral Commission system to reward users for introducing new investors and professionals. This referral commission is given anytime a referral make an investment deposit in the website. Reinvestment from account balance does not attract a referral commision.</p>
-                                <a class="uk-button uk-button-primary uk-border-rounded" href="/register">Open an Account</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        
     </main>
 @endsection
